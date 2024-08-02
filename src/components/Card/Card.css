@@ -1,0 +1,8 @@
+@media (max-width: 640px) {
+    .card-title {
+        font-size: 12px;
+    }
+    .card-subtitle {
+        font-size: 10px;
+    }
+}
